@@ -42,3 +42,15 @@ This research project focuses on integrating Big Data, the Internet of Things (I
 - Assessment of strengths and weaknesses of tools used in research and data analysis.
 - Review of personal learning experiences and project plan importance.
 - Evaluation of how the project plan can support future project performance at TechKnow Company.
+
+## Conclusion:
+
+The integration of Big Data, IoT, and AI technologies into the maternity department of Irbid Specialist Hospital holds immense potential for improving patient care, research capabilities, and management efficiency. This project aims to provide valuable insights and recommendations for successful implementation, contributing to advancements in healthcare technology.
+
+## Ownership Notice:
+
+This project and all associated content belong to the respective author. Unauthorized use, distribution, or reproduction is strictly prohibited. For inquiries or cooperation requests, please contact the author directly.
+
+Thank you for your interest and cooperation.
+
+Rashid Hasan
