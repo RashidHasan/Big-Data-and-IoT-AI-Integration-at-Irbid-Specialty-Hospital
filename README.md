@@ -21,3 +21,24 @@ This research project focuses on integrating Big Data, the Internet of Things (I
 - Establishing project milestones, effort estimation, and resource allocation.
 - Developing a project schedule using a Gantt chart with defined deadlines.
 - Identifying project dependencies for effective task management.
+
+
+## Research Study:
+
+### The research study on the maternity department encompasses:
+
+- Introduction highlighting the potential benefits of Big Data, IoT, and AI technologies.
+- Review of related research to provide context for the study.
+- Mixed-method research approach including close-formatted and open-ended interviews.
+- Analysis of collected data using appropriate tools to measure reliability and accuracy.
+- Conclusion with recommendations based on research findings and data analysis.
+- Reference list adhering to the Harvard referencing system.
+
+## Performance Review:
+
+### The project's performance is evaluated through:
+
+- Critique and measurement of the project management process.
+- Assessment of strengths and weaknesses of tools used in research and data analysis.
+- Review of personal learning experiences and project plan importance.
+- Evaluation of how the project plan can support future project performance at TechKnow Company.
