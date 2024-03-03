@@ -10,3 +10,14 @@ This research project focuses on integrating Big Data, the Internet of Things (I
 - Conduct a mixed-method research study on a Jordanian hospital's maternity department to assess the feasibility and impact of the proposed technologies.
 - Analyze research findings and provide recommendations for future implementation strategies.
 - Evaluate the project's performance and tools used throughout the process.
+
+
+## Project Planning:
+
+### The project is structured according to a detailed Project Management Plan, which includes:
+
+- Defining project scope, objectives, and stakeholders.
+- Creating a Work Breakdown Structure (WBS) outlining phases, activities, and tasks.
+- Establishing project milestones, effort estimation, and resource allocation.
+- Developing a project schedule using a Gantt chart with defined deadlines.
+- Identifying project dependencies for effective task management.
