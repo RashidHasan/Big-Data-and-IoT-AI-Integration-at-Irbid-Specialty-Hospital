@@ -1,0 +1,633 @@
+<mxfile host="Electron" modified="2023-12-07T08:44:41.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="r-03UfDOXXGjrz3Rqm7x" version="22.0.3" type="device">
+  <diagram name="Page-1" id="owpvAcqAhmYbQZqAZyHr">
+    <mxGraphModel dx="6031" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;strokeColor=default;fontFamily=Times New Roman;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-1" target="irq0AlqhcHvpBzjeNYIz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-1" target="irq0AlqhcHvpBzjeNYIz-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="190" />
+              <mxPoint x="-315" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-1" target="irq0AlqhcHvpBzjeNYIz-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="190" />
+              <mxPoint x="-1670" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-1" target="irq0AlqhcHvpBzjeNYIz-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="190" />
+              <mxPoint x="1280" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-1" value="&lt;b&gt;Implementing Big Data and IoT/AI technologies at Irbid Specialist Hospital&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=default;gradientColor=#7ea6e0;shadow=0;labelBorderColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-2" target="irq0AlqhcHvpBzjeNYIz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-2" target="irq0AlqhcHvpBzjeNYIz-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="310" />
+              <mxPoint x="191" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-2" target="irq0AlqhcHvpBzjeNYIz-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="310" />
+              <mxPoint x="-200" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-2" value="&lt;b&gt;Project Initiation&amp;nbsp;Phase (Week 1-3)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#6B9455;strokeColor=default;shadow=0;labelBorderColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-4" target="irq0AlqhcHvpBzjeNYIz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-4" target="irq0AlqhcHvpBzjeNYIz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-4" target="irq0AlqhcHvpBzjeNYIz-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-4" value="&lt;b&gt;Project launch&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;rounded=1;gradientColor=#b3b3b3;shadow=0;labelBorderColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="375" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-6" target="irq0AlqhcHvpBzjeNYIz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-6" target="irq0AlqhcHvpBzjeNYIz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-6" value="&lt;b&gt;Hold a research and development meeting.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="440" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-8" value="&lt;b&gt;Holding the opening session of the project.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="540" width="127.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-10" target="irq0AlqhcHvpBzjeNYIz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-10" target="irq0AlqhcHvpBzjeNYIz-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="520" />
+              <mxPoint x="800" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-10" target="irq0AlqhcHvpBzjeNYIz-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="520" />
+              <mxPoint x="955" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-10" value="&lt;b&gt;Define project goals and objectives.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-12" value="&lt;b&gt;Prepare the agenda and distribute it to team members.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="540" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-14" value="&lt;b&gt;Draft a document that defines the project objectives.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="537.5" width="130" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-16" value="&lt;b&gt;Share the document with stakeholders for feedback.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="540" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-18" target="irq0AlqhcHvpBzjeNYIz-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="430" />
+              <mxPoint x="190" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-18" target="irq0AlqhcHvpBzjeNYIz-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-18" value="&lt;b&gt;Ethics and Compliance Review&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;rounded=1;gradientColor=#b3b3b3;shadow=0;labelBorderColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="126.25" y="340" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-20" value="&lt;b&gt;Outline the project&#39;s purpose, objectives, and scope.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="540" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-22" target="irq0AlqhcHvpBzjeNYIz-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-22" value="&lt;b&gt;Research and gather additional project requirements.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-24" value="&lt;b&gt;Review existing project documentation for insights.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="540" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-26" target="irq0AlqhcHvpBzjeNYIz-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="510" />
+              <mxPoint x="190" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-26" value="&lt;b&gt;Review ethical considerations for maternity ward research.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="440" width="162.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-28" value="&lt;b&gt;Research and compile ethical guidelines.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="540" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-30" target="irq0AlqhcHvpBzjeNYIz-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-30" target="irq0AlqhcHvpBzjeNYIz-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="510" />
+              <mxPoint x="-130" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-30" value="&lt;b&gt;Ensure compliance with data protection regulations.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="440" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-32" value="&lt;b&gt;Research relevant data protection laws.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="540" width="130" height="48.75" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-34" value="&lt;b&gt;Develop a compliance checklist.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="540" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-36" target="irq0AlqhcHvpBzjeNYIz-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-36" value="&lt;b&gt;Feasibility Study&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;rounded=1;gradientColor=#b3b3b3;shadow=0;labelBorderColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-38" target="irq0AlqhcHvpBzjeNYIz-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-370" y="520" />
+              <mxPoint x="-335" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-38" target="irq0AlqhcHvpBzjeNYIz-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-370" y="520" />
+              <mxPoint x="-585" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-38" value="&lt;b&gt;Assess Feasibility Study&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-40" value="&lt;b&gt;Evaluate the technical requirements of implementing big data and IoT/AI in the maternity ward.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="543.75" width="230" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-42" value="&lt;b&gt;&amp;nbsp;Investigate the technical skills and expertise required for successful implementation.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="540" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-44" target="irq0AlqhcHvpBzjeNYIz-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-315" y="310" />
+              <mxPoint x="-555" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-44" target="irq0AlqhcHvpBzjeNYIz-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-315" y="310" />
+              <mxPoint x="-855" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-44" target="irq0AlqhcHvpBzjeNYIz-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-315" y="310" />
+              <mxPoint x="-1245" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-44" value="&lt;b&gt;Project Planning&amp;nbsp;Phase&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;(Week 3-5)&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;rounded=1;gradientColor=#6B9455;shadow=0;labelBorderColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="230" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-46" target="irq0AlqhcHvpBzjeNYIz-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-555" y="420" />
+              <mxPoint x="-770" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-46" value="&lt;b&gt;Research and Requirement Analysis Plan&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#000000;rounded=1;gradientColor=#b3b3b3;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="340" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-48" target="irq0AlqhcHvpBzjeNYIz-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-48" target="irq0AlqhcHvpBzjeNYIz-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-750" y="520" />
+              <mxPoint x="-1010" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-48" value="&lt;b&gt;Develop a plan for literature review and research.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="440" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-50" value="&lt;b&gt;Identify key research areas related to big data and IoT/AI in maternity care.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="540" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-52" value="&lt;b&gt;Set objectives for interview-based research.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="540" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-54" target="irq0AlqhcHvpBzjeNYIz-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1060" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-54" value="&lt;b&gt;Technology and Infrastructure Planning&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#000000;rounded=1;gradientColor=#b3b3b3;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="340" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-57" target="irq0AlqhcHvpBzjeNYIz-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1055" y="490" />
+              <mxPoint x="-1169" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-57" target="irq0AlqhcHvpBzjeNYIz-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1055" y="490" />
+              <mxPoint x="-1330" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-57" value="&lt;b&gt;Identify potential big data and IoT/AI technologies.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="390" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-59" value="&lt;b&gt;Research available technologies.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1229" y="540" width="120" height="48.75" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-61" value="&lt;b&gt;Evaluate their feasibility for the project.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="540" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-63" target="irq0AlqhcHvpBzjeNYIz-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1460" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-63" value="&lt;b&gt;Risk Management Plan&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#000000;rounded=1;gradientColor=#b3b3b3;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1310" y="340" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-65" target="irq0AlqhcHvpBzjeNYIz-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1445" y="490" />
+              <mxPoint x="-1510" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-65" target="irq0AlqhcHvpBzjeNYIz-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1445" y="490" />
+              <mxPoint x="-1682" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-65" value="&lt;b&gt;Identify potential risks associated with the project.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="390" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-67" value="&lt;b&gt;Brainstorm potential risks.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1580" y="533.75" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-69" value="&lt;b&gt;Categorize risks and assess their impact.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1750" y="533.75" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-71" target="irq0AlqhcHvpBzjeNYIz-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1670" y="310" />
+              <mxPoint x="-1670" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-71" target="irq0AlqhcHvpBzjeNYIz-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1670" y="300" />
+              <mxPoint x="-2120" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-71" target="irq0AlqhcHvpBzjeNYIz-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1670" y="300" />
+              <mxPoint x="-2540" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-71" target="irq0AlqhcHvpBzjeNYIz-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1670" y="300" />
+              <mxPoint x="-2910" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-71" value="&lt;b&gt;Project Execution&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Phase&amp;nbsp;&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;(Week 5-7)&lt;/b&gt;&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;rounded=1;gradientColor=#6B9455;shadow=0;labelBorderColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1730" y="220" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-73" target="irq0AlqhcHvpBzjeNYIz-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1670" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-73" value="&lt;b&gt;Requirement Gathering and Analysis&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#000000;rounded=1;gradientColor=#b3b3b3;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1740" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-75" target="irq0AlqhcHvpBzjeNYIz-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1860" y="510" />
+              <mxPoint x="-1860" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-75" target="irq0AlqhcHvpBzjeNYIz-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1860" y="480" />
+              <mxPoint x="-2030" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-75" value="&lt;b&gt;Develop interview questions for maternity ward staff.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1930" y="390" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-77" value="&lt;b&gt;Tailor questions to extract valuable insights.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1930" y="530" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-80" value="&lt;b&gt;Create a plan for conducting interviews.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2100" y="530" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-86" target="irq0AlqhcHvpBzjeNYIz-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2110" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-86" value="&lt;b&gt;Designing a high-level system structure for research&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#000000;rounded=1;gradientColor=#b3b3b3;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2180" y="340" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-88" target="irq0AlqhcHvpBzjeNYIz-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-88" value="&lt;b&gt;Design a high-level system architecture for the research.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2390" y="390" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-90" value="&lt;b&gt;&amp;nbsp;Identify the necessary components of the research system, taking into account the integration of big data and IoT/AI technologies.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2414" y="520" width="219" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-92" target="irq0AlqhcHvpBzjeNYIz-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2545" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-92" value="&lt;b&gt;Development of the Research Study Prototype&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#000000;rounded=1;gradientColor=#b3b3b3;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2610" y="340" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-94" target="irq0AlqhcHvpBzjeNYIz-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-94" target="irq0AlqhcHvpBzjeNYIz-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-94" target="irq0AlqhcHvpBzjeNYIz-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-94" target="irq0AlqhcHvpBzjeNYIz-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-94" target="irq0AlqhcHvpBzjeNYIz-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-94" value="&lt;b&gt;Developing a simplified prototype for testing the research study&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2770" y="390" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-96" value="&lt;b&gt;The prototype aims to create a digital tool or application that integrates IoT devices for monitoring maternal and newborn health.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2670" y="520" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-99" value="&lt;b&gt;Test the prototype using sample maternity care data to ensure its effectiveness and reliability.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2930" y="520" width="180" height="68.75" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-101" target="irq0AlqhcHvpBzjeNYIz-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2925" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-101" value="&lt;b&gt;Literature Review Completion&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#000000;rounded=1;gradientColor=#b3b3b3;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3000" y="340" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-103" target="irq0AlqhcHvpBzjeNYIz-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-103" target="irq0AlqhcHvpBzjeNYIz-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-103" value="&lt;b&gt;Conduct a literature review on big data and IoT/AI in maternity care.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3240" y="390" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-105" value="&lt;b&gt;Summarize key findings and insights.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3120" y="530" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-108" value="&lt;b&gt;Document relevant studies and publications.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3310" y="530" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-110" target="irq0AlqhcHvpBzjeNYIz-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="310" />
+              <mxPoint x="1280" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-110" target="irq0AlqhcHvpBzjeNYIz-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-110" target="irq0AlqhcHvpBzjeNYIz-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-110" target="irq0AlqhcHvpBzjeNYIz-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-110" value="&lt;b&gt;Project Closure&amp;nbsp;Phase&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;(Week 7-8)&lt;/b&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;rounded=1;gradientColor=#6B9455;shadow=0;labelBorderColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="230" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-112" target="irq0AlqhcHvpBzjeNYIz-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-112" value="&lt;b&gt;Deployment and Monitoring&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#000000;rounded=1;gradientColor=#b3b3b3;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-114" target="irq0AlqhcHvpBzjeNYIz-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-114" target="irq0AlqhcHvpBzjeNYIz-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1383" y="520" />
+              <mxPoint x="1570" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-114" value="&lt;b&gt;Share the research findings with stakeholders.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="440" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-116" value="&lt;b&gt;Prepare a presentation or report.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1308.75" y="540" width="147.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-119" value="&lt;b&gt;Conduct a virtual or in-person presentation.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="536.87" width="140" height="53.13" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-123" target="irq0AlqhcHvpBzjeNYIz-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1575" y="410" />
+              <mxPoint x="1663" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-123" value="&lt;b&gt;Final Evaluation and Project Review&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#000000;rounded=1;gradientColor=#b3b3b3;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="340" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-125" target="irq0AlqhcHvpBzjeNYIz-127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1685" y="510" />
+              <mxPoint x="1750" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-125" target="irq0AlqhcHvpBzjeNYIz-129">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1685" y="510" />
+              <mxPoint x="1935" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-125" value="&lt;b&gt;Evaluate the success of the research against initial objectives.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="430" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-127" value="&lt;b&gt;Review project goals and achievements.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="533.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-129" value="&lt;div&gt;&lt;b&gt;Reflect on lessons learned and areas for improvement.&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="533.43" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-133" target="irq0AlqhcHvpBzjeNYIz-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-133" value="&lt;b&gt;User Training and Documentation&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#000000;rounded=1;gradientColor=#b3b3b3;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="340" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-135" target="irq0AlqhcHvpBzjeNYIz-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-135" target="irq0AlqhcHvpBzjeNYIz-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2135" y="500" />
+              <mxPoint x="2315" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-135" value="&lt;b&gt;Create documentation for the research findings.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2062.5" y="430" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-137" value="&lt;b&gt;Summarize key findings and insights.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2067.5" y="530" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-139" value="&lt;b&gt;Document the methodology and limitations of the research.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="528.75" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-141" target="irq0AlqhcHvpBzjeNYIz-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-141" target="irq0AlqhcHvpBzjeNYIz-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-141" value="&lt;b&gt;Project Closure and Handover&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#000000;rounded=1;gradientColor=#b3b3b3;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-143" target="irq0AlqhcHvpBzjeNYIz-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-143" value="&lt;b&gt;Document and archive project materials.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2445" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-145" value="&lt;b&gt;Compile all project-related documents.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="533.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-147" target="irq0AlqhcHvpBzjeNYIz-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBorderColor=none;" edge="1" parent="1" source="irq0AlqhcHvpBzjeNYIz-147" target="irq0AlqhcHvpBzjeNYIz-151">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2725" y="510" />
+              <mxPoint x="2900" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-147" value="&lt;b&gt;Communicate findings and insights to the team or relevant stakeholders.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcd28;strokeColor=#000000;rounded=1;gradientColor=#ffa500;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="430" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-149" value="&lt;b&gt;Share key research findings.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2665" y="533.43" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-151" value="&lt;b&gt;Facilitate a debrief session with any interested parties.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="533.43" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irq0AlqhcHvpBzjeNYIz-157" value="&lt;b&gt;Define the variables, parameters, and data sources relevant to the study.&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#000000;rounded=1;gradientColor=#ffd966;shadow=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2790" y="620" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
